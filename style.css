@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@1,300&family=Work+Sans:wght@800&display=swap');
+
+body {
+    background-color: white;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.container{
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+.eblem ul{
+    margin: 0;
+    width: 600px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.eblem{
+    display: flex;
+    justify-content: space-between;
+    min-height: 200px;
+    align-items: center;
+}
+
+#grupa {
+    display: block;
+    height: 370px;
+    width: 800px;
+    position: relative;
+    bottom: 300px;
+    left: 600px;
+}
+
+#we {
+    display: block;
+    font-size: 30px;
+    width: 600px;
+}
+
+.expres {
+    font-size: 40px;
+}
+
+.bluvota {
+    color: rgb(0, 6, 189);
+}
